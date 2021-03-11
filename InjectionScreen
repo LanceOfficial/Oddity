@@ -1,1 +1,11 @@
+wait(0.2)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Oddity"; 
+Text = "Oddity Injected"; 
+Icon = "http://www.roblox.com/asset/?id=6380265130"; 
+Duration = 5; 
+})
+
+
+
 
